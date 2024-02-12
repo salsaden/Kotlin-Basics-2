@@ -17,7 +17,7 @@ fun main(args: Array<String>) {
          println("Loop $num5")
          num5--
      }
-         while (num5>0)
+         while (num5>=0)
 
 
 }

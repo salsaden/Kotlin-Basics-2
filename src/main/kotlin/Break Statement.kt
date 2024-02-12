@@ -2,7 +2,7 @@ fun main(args: Array<String>) {
     for (n in 1..10){
         println("Before break loop: $n")
         if (n==5){
-            println("I ama terminating loop\n")
+            println("I am a terminating loop\n")
             break
         }
     }

@@ -26,7 +26,7 @@ fun main(args: Array<String>) {
     println("Array contains Sareyo: ${arr5.contains("Sareyo")}")
     //first() and last() functions
     println("First Element: ${arr5.first()}")
-    println("First Element: ${arr5.last()}")
+    println("Last Element: ${arr5.last()}")
     //finding the index of an element in an array
     println("Index of 34: ${arr5.indexOf(34)}")
 

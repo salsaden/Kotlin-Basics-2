@@ -6,7 +6,7 @@ class calculate{
         return num*num
     }
     fun sum():Int{
-        return num+num
+        return ( num+num)
     }
 }
 
